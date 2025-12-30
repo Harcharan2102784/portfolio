@@ -28,7 +28,7 @@ export function About() {
             </div>
             
             <h2 className="mb-8 text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400">
-              Crafting Visual Stories for Over 8 Years
+              Crafting Visual Stories for Over 1.5 Years
             </h2>
             
             <div className="space-y-6 text-gray-400 leading-relaxed">
