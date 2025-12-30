@@ -33,21 +33,15 @@ export function About() {
             
             <div className="space-y-6 text-gray-400 leading-relaxed">
               <p className="hover:text-gray-300 transition-colors">
-                I'm a passionate graphic designer with a deep appreciation for clean aesthetics, 
-                meaningful composition, and strategic thinking. My work spans across brand identity, 
-                digital design, and print media.
+               I am a creative designer with a strong focus on building visually compelling and purposeful design experiences. With over 8 years of hands-on experience, I specialize in transforming ideas into clean, engaging, and impactful visual stories across digital and print platforms.
               </p>
               
               <p className="hover:text-gray-300 transition-colors">
-                With experience working with startups, agencies, and established brands, I bring a 
-                versatile approach to every project. I believe great design is invisible—it 
-                communicates effortlessly and resonates authentically.
+              My work spans brand identity, visual design, and creative direction, where I combine strategic thinking with a deep understanding of aesthetics. I have collaborated with startups, agencies, and established businesses, adapting seamlessly to diverse industries and project requirements.
               </p>
               
               <p className="hover:text-gray-300 transition-colors">
-                My design philosophy centers on simplicity, functionality, and timeless appeal. 
-                I strive to create work that not only looks exceptional but serves a clear purpose 
-                and delivers measurable results.
+              I believe great design is more than appearance—it is clarity, consistency, and communication. My design approach prioritizes simplicity, usability, and timeless appeal, ensuring every project not only looks refined but also delivers measurable value and lasting impact.
               </p>
             </div>
             
