@@ -23,7 +23,7 @@ export function Hero() {
         </div>
         
         <h1 className="mb-6 text-transparent bg-clip-text bg-gradient-to-r from-white via-indigo-200 to-purple-200 hover:scale-105 transition-transform duration-500">
-          Alex Morrison
+          Harcharan Singh
         </h1>
         
         <div className="mb-6 relative inline-block">
