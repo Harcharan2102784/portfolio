@@ -2,14 +2,14 @@ import { Award, Zap } from 'lucide-react';
 
 export function About() {
   const skills = [
-    'Brand Identity',
-    'Visual Design',
-    'Art Direction',
-    'Typography',
-    'Layout Design',
-    'Color Theory',
-    'Digital Illustration',
-    'Creative Strategy'
+    'Graphic Design',
+    'Branding & Identity Design',
+    'UI/UX Design',
+    'Web Design & Prototyping',
+    'Typography & Layout Design',
+    'Digital & Marketing Creatives',
+    'Color Theory & Visual Aesthetics',
+    'Client Requirement Analysis'
   ];
 
   return (
