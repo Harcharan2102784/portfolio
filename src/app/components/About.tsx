@@ -46,15 +46,15 @@ export function About() {
             </div>
             
             <div className="mt-12 grid grid-cols-3 gap-6 lg:gap-8">
-              <div className="group p-4 bg-white/5 backdrop-blur-sm border border-white/10 hover:border-indigo-500/50 transition-all duration-300 transform hover:-translate-y-2 hover:shadow-lg hover:shadow-indigo-500/20" style={{ transformStyle: 'preserve-3d' }}>
+              <div className="group rounded-[15px] p-4 bg-white/5 backdrop-blur-sm border border-white/10 hover:border-indigo-500/50 transition-all duration-300 transform hover:-translate-y-2 hover:shadow-lg hover:shadow-indigo-500/20" style={{ transformStyle: 'preserve-3d' }}>
                 <div className="text-4xl text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-purple-400 mb-2 group-hover:scale-110 transition-transform">8+</div>
                 <div className="text-xs text-gray-500 group-hover:text-gray-400 transition-colors">Years Experience</div>
               </div>
-              <div className="group p-4 bg-white/5 backdrop-blur-sm border border-white/10 hover:border-indigo-500/50 transition-all duration-300 transform hover:-translate-y-2 hover:shadow-lg hover:shadow-indigo-500/20" style={{ transformStyle: 'preserve-3d' }}>
+              <div className="group rounded-[15px] p-4 bg-white/5 backdrop-blur-sm border border-white/10 hover:border-indigo-500/50 transition-all duration-300 transform hover:-translate-y-2 hover:shadow-lg hover:shadow-indigo-500/20" style={{ transformStyle: 'preserve-3d' }}>
                 <div className="text-4xl text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-purple-400 mb-2 group-hover:scale-110 transition-transform">120+</div>
                 <div className="text-xs text-gray-500 group-hover:text-gray-400 transition-colors">Projects Completed</div>
               </div>
-              <div className="group p-4 bg-white/5 backdrop-blur-sm border border-white/10 hover:border-indigo-500/50 transition-all duration-300 transform hover:-translate-y-2 hover:shadow-lg hover:shadow-indigo-500/20" style={{ transformStyle: 'preserve-3d' }}>
+              <div className="group rounded-[15px] p-4 bg-white/5 backdrop-blur-sm border border-white/10 hover:border-indigo-500/50 transition-all duration-300 transform hover:-translate-y-2 hover:shadow-lg hover:shadow-indigo-500/20" style={{ transformStyle: 'preserve-3d' }}>
                 <div className="text-4xl text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-purple-400 mb-2 group-hover:scale-110 transition-transform">50+</div>
                 <div className="text-xs text-gray-500 group-hover:text-gray-400 transition-colors">Happy Clients</div>
               </div>
