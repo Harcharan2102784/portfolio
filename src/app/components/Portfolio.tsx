@@ -3,13 +3,13 @@ import { ExternalLink } from 'lucide-react';
 
 export function Portfolio() {
   const projects = [
-    {
-      id: 1,
-      title: 'Minimal Brand Identity',
-      category: 'Branding',
-      description: 'Complete visual identity system for a sustainable lifestyle brand',
-      image: 'https://images.unsplash.com/photo-1759229874914-c1ffdb3ebd0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXN0JTIwYnJhbmRpbmclMjBkZXNpZ258ZW58MXx8fHwxNzY2OTkwNzcxfDA&ixlib=rb-4.1.0&q=80&w=1080'
-    },
+    // {
+    //   id: 1,
+    //   title: 'Minimal Brand Identity',
+    //   category: 'Branding',
+    //   description: 'Complete visual identity system for a sustainable lifestyle brand',
+    //   image: 'https://images.unsplash.com/photo-1759229874914-c1ffdb3ebd0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXN0JTIwYnJhbmRpbmclMjBkZXNpZ258ZW58MXx8fHwxNzY2OTkwNzcxfDA&ixlib=rb-4.1.0&q=80&w=1080'
+    // },
     {
       id: 2,
       title: 'Modern App Interface',
@@ -31,19 +31,20 @@ export function Portfolio() {
       description: 'Visual content strategy and creative assets for product launch',
       image: 'https://images.unsplash.com/photo-1676208973096-026201d7f0b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYSUyMGNyZWF0aXZlfGVufDF8fHx8MTc2NjkzMzc2MHww&ixlib=rb-4.1.0&q=80&w=1080'
     },
-    {
-      id: 5,
-      title: 'Creative Workspace',
-      category: 'Branding',
-      description: 'Brand identity and environmental graphics for coworking space',
-      image: 'https://images.unsplash.com/photo-1609921212029-bb5a28e60960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxncmFwaGljJTIwZGVzaWduJTIwd29ya3NwYWNlfGVufDF8fHx8MTc2NjkwOTE1OHww&ixlib=rb-4.1.0&q=80&w=1080'
-    },
+    // {
+    //   id: 5,
+    //   title: 'Creative Workspace',
+    //   category: 'Branding',
+    //   description: 'Brand identity and environmental graphics for coworking space',
+    //   image: 'https://images.unsplash.com/photo-1609921212029-bb5a28e60960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxncmFwaGljJTIwZGVzaWduJTIwd29ya3NwYWNlfGVufDF8fHx8MTc2NjkwOTE1OHww&ixlib=rb-4.1.0&q=80&w=1080'
+    // },
     {
       id: 6,
       title: 'Portfolio Showcase',
       category: 'UI Design',
       description: 'Creative portfolio website design with interactive elements',
       image: 'https://images.unsplash.com/photo-1760071744047-5542cbfda184?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMHBvcnRmb2xpbyUyMHdvcmt8ZW58MXx8fHwxNzY2ODgwMTA3fDA&ixlib=rb-4.1.0&q=80&w=1080'
+      // image:'/chani.png"
     }
   ];
 
