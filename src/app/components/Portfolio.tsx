@@ -22,7 +22,8 @@ export function Portfolio() {
       title: 'Editorial Design',
       category: 'Print Design',
       description: 'Magazine layout and typography for quarterly publication',
-      image: 'https://images.unsplash.com/photo-1511499963164-bbacc7bbe9f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcmludCUyMGRlc2lnbiUyMG1hZ2F6aW5lfGVufDF8fHx8MTc2Njk5MDc3Mnww&ixlib=rb-4.1.0&q=80&w=1080'
+      // image: 'https://images.unsplash.com/photo-1511499963164-bbacc7bbe9f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcmludCUyMGRlc2lnbiUyMG1hZ2F6aW5lfGVufDF8fHx8MTc2Njk5MDc3Mnww&ixlib=rb-4.1.0&q=80&w=1080'
+      image:'./p1.jpg'
     },
     {
       id: 4,
