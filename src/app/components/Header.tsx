@@ -16,7 +16,7 @@ export function Header() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-[#0a0a0f]/80 backdrop-blur-md border-b border-white/10">
       <div className="max-w-7xl mx-auto px-6 py-6 flex items-center justify-between">
         <div className="text-xl text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-purple-400 hover:scale-110 transition-transform cursor-pointer">
-          AM
+          HarcharanSingh
         </div>
         
         <nav className="hidden md:flex items-center gap-8">
