@@ -23,10 +23,10 @@ export function Contact() {
   };
 
   const socialLinks = [
-    { icon: Linkedin, href: '#', label: 'LinkedIn' },
-    { icon: Github, href: '#', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/harcharan-singh-a98429272/', label: 'LinkedIn' },
+    { icon: Github, href: 'https://github.com/Harcharan2102784', label: 'GitHub' },
     { icon: Twitter, href: '#', label: 'Twitter' },
-    { icon: Instagram, href: '#', label: 'Instagram' }
+    { icon: Instagram, href: 'https://www.instagram.com/_h_a_r_c_h_a_r_a_n_?igsh=eHQyaWVtbGJ1cG1x', label: 'Instagram' }
   ];
 
   return (
