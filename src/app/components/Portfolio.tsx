@@ -39,14 +39,14 @@ export function Portfolio() {
     //   description: 'Brand identity and environmental graphics for coworking space',
     //   image: 'https://images.unsplash.com/photo-1609921212029-bb5a28e60960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxncmFwaGljJTIwZGVzaWduJTIwd29ya3NwYWNlfGVufDF8fHx8MTc2NjkwOTE1OHww&ixlib=rb-4.1.0&q=80&w=1080'
     // },
-    {
-      id: 6,
-      title: 'Portfolio Showcase',
-      category: 'UI Design',
-      description: 'Creative portfolio website design with interactive elements',
-      image: 'https://images.unsplash.com/photo-1760071744047-5542cbfda184?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMHBvcnRmb2xpbyUyMHdvcmt8ZW58MXx8fHwxNzY2ODgwMTA3fDA&ixlib=rb-4.1.0&q=80&w=1080'
-      // image:'/chani.png"
-    }
+    // {
+    //   id: 6,
+    //   title: 'Portfolio Showcase',
+    //   category: 'UI Design',
+    //   description: 'Creative portfolio website design with interactive elements',
+    //   image: 'https://images.unsplash.com/photo-1760071744047-5542cbfda184?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMHBvcnRmb2xpbyUyMHdvcmt8ZW58MXx8fHwxNzY2ODgwMTA3fDA&ixlib=rb-4.1.0&q=80&w=1080'
+    //   // image:'/chani.png"
+    // }
   ];
 
   return (
