@@ -15,7 +15,7 @@ export function Portfolio() {
       title: 'Modern App Interface',
       category: 'UI Design',
       description: 'User interface design for a productivity mobile application',
-      image: 'https://images.unsplash.com/photo-1713857297379-6fc26e70f581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBhcHAlMjBpbnRlcmZhY2V8ZW58MXx8fHwxNzY2ODk0OTYzfDA&ixlib=rb-4.1.0&q=80&w=1080'
+      image:'./p1.jpg'
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ export function Portfolio() {
       title: 'Social Media Campaign',
       category: 'Social Media',
       description: 'Visual content strategy and creative assets for product launch',
-      image: 'https://images.unsplash.com/photo-1676208973096-026201d7f0b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYSUyMGNyZWF0aXZlfGVufDF8fHx8MTc2NjkzMzc2MHww&ixlib=rb-4.1.0&q=80&w=1080'
+      image:'./p1.jpg'
     },
     // {
     //   id: 5,
