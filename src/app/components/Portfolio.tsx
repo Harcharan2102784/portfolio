@@ -15,7 +15,7 @@ export function Portfolio() {
       title: 'Modern App Interface',
       category: 'UI Design',
       description: 'User interface design for a productivity mobile application',
-      image:'./p1.jpg'
+      image:'./Screenshot 2026-01-16 154417.png'
     },
     {
       id: 3,
