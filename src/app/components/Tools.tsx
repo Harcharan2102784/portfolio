@@ -6,8 +6,8 @@ export function Tools() {
     { name: 'After Effects', category: 'Adobe Suite' },
     { name: 'Figma', category: 'Design Tools' },
     { name: 'Sketch', category: 'Design Tools' },
-    { name: 'Procreate', category: 'Digital Art' },
-    { name: 'Blender', category: '3D Design' }
+    // { name: 'Procreate', category: 'Digital Art' },
+    // { name: 'Blender', category: '3D Design' }
   ];
 
   const categories = Array.from(new Set(tools.map(t => t.category)));
